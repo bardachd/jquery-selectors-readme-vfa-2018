@@ -1,2 +1,6 @@
-document.paragraphSelector("p")
+document.paragraphSelector("p"){
 
+}
+document.lastImageSelector(){
+  
+}
