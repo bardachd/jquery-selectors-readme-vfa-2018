@@ -1,9 +1,15 @@
-document.paragraphSelector("p"){
+function paragraphSelector(){
 
 }
-document.lastImageSelector(){
+function lastImageSelector(){
   
 }
-function document.ninjaBabySelector(){
+function ninjaBabySelector(){
+  
+}
+function divSelector(){
+  
+}
+function firstListItem(){
   
 }
