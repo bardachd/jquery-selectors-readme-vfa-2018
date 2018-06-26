@@ -1,1 +1,2 @@
-document.paragraphSelector()
+document.paragraphSelector("p")
+
